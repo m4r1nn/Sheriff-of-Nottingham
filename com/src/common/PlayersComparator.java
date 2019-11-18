@@ -1,6 +1,6 @@
-package com.tema1.common;
+package com.src.common;
 
-import com.tema1.players.Player;
+import com.src.players.Player;
 
 import java.util.Comparator;
 

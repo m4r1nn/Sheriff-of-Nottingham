@@ -1,4 +1,4 @@
-package com.tema1.common;
+package com.src.common;
 
 public final class Constants {
     // useful constants

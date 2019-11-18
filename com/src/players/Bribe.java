@@ -1,6 +1,6 @@
-package com.tema1.players;
+package com.src.players;
 
-import com.tema1.common.Constants;
+import com.src.common.Constants;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,14 +1,14 @@
-package com.tema1.main;
+package com.src.main;
 
-import com.tema1.common.PlayersComparator;
-import com.tema1.goods.GoodsFactory;
-import com.tema1.goods.Goods;
-import com.tema1.goods.LegalGoods;
-import com.tema1.goods.IllegalGoods;
-import com.tema1.goods.GoodsType;
-import com.tema1.players.Player;
-import com.tema1.players.PlayersFactory;
-import com.tema1.players.PlayerStrategy;
+import com.src.common.PlayersComparator;
+import com.src.goods.GoodsFactory;
+import com.src.goods.Goods;
+import com.src.goods.LegalGoods;
+import com.src.goods.IllegalGoods;
+import com.src.goods.GoodsType;
+import com.src.players.Player;
+import com.src.players.PlayersFactory;
+import com.src.players.PlayerStrategy;
 
 import java.util.ArrayList;
 import java.util.Map;

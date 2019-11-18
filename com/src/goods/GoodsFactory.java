@@ -1,4 +1,4 @@
-package com.tema1.goods;
+package com.src.goods;
 
 import java.util.HashMap;
 import java.util.Map;

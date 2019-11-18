@@ -1,4 +1,4 @@
-package com.tema1.players;
+package com.src.players;
 
 public enum PlayerStrategy {
     Basic, Greedy, Bribe

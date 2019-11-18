@@ -1,6 +1,6 @@
-package com.tema1.main;
+package com.src.main;
 
-import com.tema1.goods.GoodsFactory;
+import com.src.goods.GoodsFactory;
 
 public final class Main {
     private Main() { }

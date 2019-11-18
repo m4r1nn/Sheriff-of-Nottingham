@@ -1,11 +1,11 @@
-package com.tema1.players;
+package com.src.players;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.tema1.common.Constants;
-import com.tema1.goods.GoodsType;
+import com.src.common.Constants;
+import com.src.goods.GoodsType;
 
 public class Basic extends Player {
 

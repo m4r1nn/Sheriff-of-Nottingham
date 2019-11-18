@@ -1,4 +1,4 @@
-package com.tema1.players;
+package com.src.players;
 
 public final class PlayersFactory {
     private static PlayersFactory instance = new PlayersFactory();
